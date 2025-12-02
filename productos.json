@@ -1,0 +1,27 @@
+[
+  {
+    "nombre": "Filtro de aire",
+    "imagen": "img/filtro-aire.jpg",
+    "precio": "$150"
+  },
+  {
+    "nombre": "Bujía NGK",
+    "imagen": "img/bujia-ngk.jpg",
+    "precio": "$80"
+  },
+  {
+    "nombre": "Aceite 4T",
+    "imagen": "img/aceite-4t.jpg",
+    "precio": "$120"
+  },
+  {
+    "nombre": "Cadena reforzada",
+    "imagen": "img/cadena-reforzada.jpg",
+    "precio": "$300"
+  },
+  {
+    "nombre": "Retrovisores",
+    "imagen": "img/retrovisores.jpg",
+    "precio": "$100"
+  }
+]
