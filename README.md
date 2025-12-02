@@ -81,5 +81,5 @@ Este proyecto está bajo la Licencia MIT, lo que permite su uso, modificación y
 
 Autor
 
-Cristopher Uriel Santiago De la O
+Cristopher Uriel Santiago De la o
 Desarrollador Frontend — México
